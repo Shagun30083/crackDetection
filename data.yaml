@@ -1,0 +1,13 @@
+names:
+- crack
+- damage
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: crack-detection-7lgyo
+  url: https://universe.roboflow.com/shm-v25ds/crack-detection-7lgyo/dataset/8
+  version: 8
+  workspace: shm-v25ds
+test: ../test/images
+train: Crack-Detection-8/train/images
+val: Crack-Detection-8/valid/images
